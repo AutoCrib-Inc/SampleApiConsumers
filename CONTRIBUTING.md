@@ -1,8 +1,8 @@
-# Contributing to our_package
+# Contributing to SampleApiConsumers
 
-First of all, thanks for considering contributing to our_package! 👍 It's people like you that make it rewarding for us - the project maintainers - to work on our_package. 😊
+First of all, thanks for considering contributing to SampleApiConsumers! 👍 It's people like you that make it rewarding for us - the project maintainers - to work on SampleApiConsumers. 😊
 
-our_package is an open source project, maintained by people who care.
+SampleApiConsumers is an open source project, maintained by people who care.
 
 [repo]: https://github.com/AutoCrib-Inc/SampleApiConsumers/
 [issues]: https://github.com/AutoCrib-Inc/SampleApiConsumers/issues
@@ -15,11 +15,11 @@ There are several ways you can contribute to this project. If you want to know m
 
 ### Ask a question ⁉️
 
-Using our_package and got stuck? Browse the [documentation][website] to see if you can find a solution. Still stuck? Post your question as an [issue on GitHub][new_issue]. While we cannot offer user support, we'll try to do our best to address it, as questions often lead to better documentation or the discovery of bugs.
+Using SampleApiConsumers and got stuck? Browse the [documentation][website] to see if you can find a solution. Still stuck? Post your question as an [issue on GitHub][new_issue]. While we cannot offer user support, we'll try to do our best to address it, as questions often lead to better documentation or the discovery of bugs.
 
 ### Propose an idea 💡
 
-Have an idea for a new our_package feature? Take a look at the [documentation][website] and [issue list][issues] to see if it isn't included or suggested yet. If not, suggest your idea as an [issue on GitHub][new_issue]. While we can't promise to implement your idea, it helps to:
+Have an idea for a new SampleApiConsumers feature? Take a look at the [documentation][website] and [issue list][issues] to see if it isn't included or suggested yet. If not, suggest your idea as an [issue on GitHub][new_issue]. While we can't promise to implement your idea, it helps to:
 
 * Explain in detail how it would work.
 * Keep the scope as narrow as possible.
@@ -28,7 +28,7 @@ See below if you want to contribute code for your idea as well.
 
 ### Report a bug 🐛
 
-Using our_package and discovered a bug? That's annoying! Don't let others have the same experience and report it as an [issue on GitHub][new_issue] so we can fix it. A good bug report makes it easier for us to do so, so please include:
+Using SampleApiConsumers and discovered a bug? That's annoying! Don't let others have the same experience and report it as an [issue on GitHub][new_issue] so we can fix it. A good bug report makes it easier for us to do so, so please include:
 
 * Your operating system name and version (e.g. Mac OS 10.13.6).
 * Any details about your local setup that might be helpful in troubleshooting.
@@ -36,7 +36,7 @@ Using our_package and discovered a bug? That's annoying! Don't let others have t
 
 ### Contribute code 📝
 
-Care to fix bugs or implement new functionality for our_package? Awesome! 👏 Have a look at the [issue list][issues] and leave a comment on the things you want to work on. See also the development guidelines below.
+Care to fix bugs or implement new functionality for SampleApiConsumers? Awesome! 👏 Have a look at the [issue list][issues] and leave a comment on the things you want to work on. See also the development guidelines below.
 
 ## Development guidelines
 
