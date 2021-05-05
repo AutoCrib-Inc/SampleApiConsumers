@@ -1,5 +1,5 @@
 # Introduction 
-Identity Server Samples are a set of an open-source projects for showing how to connect and interact with the Arcturus Web Api.
+SampleApiConsumers are a set of an open-source projects for showing how to connect and interact with the Arcturus Web Api.
 
 # Getting Started
 To run the samples you must obtain the following from AutoCrib by emailing: wssupport@autocrib.com 
