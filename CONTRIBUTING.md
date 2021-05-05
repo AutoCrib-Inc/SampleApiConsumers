@@ -21,6 +21,7 @@ Using SampleApiConsumers and got stuck? Browse the [documentation][website] to s
 
 Have an idea for a new SampleApiConsumers feature? Take a look at the [documentation][website] and [issue list][issues] to see if it isn't included or suggested yet. If not, suggest your idea as an [issue on GitHub][new_issue]. While we can't promise to implement your idea, it helps to:
 
+
 * Explain in detail how it would work.
 * Keep the scope as narrow as possible.
 
